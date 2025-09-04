@@ -40,3 +40,4 @@ int main()
 
 
 ## Result:
+The program successfully generates the Fibonacci series using a class in C++.
